@@ -1,0 +1,6 @@
+LIBRARY "CppProject"
+EXPORTS
+
+UpdateCameraSetting @ 1
+GetCameraImage @ 2
+GetCameraImage2 @ 3
